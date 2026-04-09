@@ -1,4 +1,5 @@
-**Main goal:**
+### Main goal
+
 Build an AI automation workflow that uses the recording and transcript of a video meeting
 to automatically generate a Slide deck after the meeting ends. The slide deck
 should include an executive summary, 3 high-level objectives, 3 actionable items, and next
